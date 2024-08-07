@@ -1,8 +1,3 @@
-# rock-paper-scissors
-
-
-You can check out the live version here: https://rishabh-verma-thc.github.io/rock-paper-scissors/
-
 # Project Name: Rock-Paper-Scissors(using JavaScript)
 
 ## Overview
