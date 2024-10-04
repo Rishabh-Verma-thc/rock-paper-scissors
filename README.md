@@ -11,7 +11,13 @@ You can view the live version of this project at https://rishabh-verma-thc.githu
 
 ## How to Run Locally
 
-**Clone the Repository:**
+To get a local copy of this project up and running, follow these steps:
 
-   ```sh
-   git clone https://github.com/your-username/your-repository.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rishabh-Verma-thc/rock-paper-scissors
+
+2. Navigate to the Project directory:
+    cd rock-paper-scissors
+
+3. Open index.html in your web browser to view the website.
